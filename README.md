@@ -69,7 +69,7 @@ Platforms: Facebook, Google Drive, Google Forms
 ![Java](https://img.shields.io/badge/Java-Programming-blue?logo=Java)
 ![HTML](https://img.shields.io/badge/HTML-Web%20Dev-orange?logo=HTML5)
 ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=MySQL)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-critical?logo=Security)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-blue?logo=Security)
 
 ---
 
