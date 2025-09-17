@@ -10,8 +10,8 @@ Available for 🛠️ project collaborations and 🌱 voluntary engagements.
 I'm passionate about building tools, writing systems, and creating content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
 
 - 🎓 ISC² Certified in Cybersecurity — Candidate  
-- 🛡️ Google Career Certificate in Cybersecurity — Scholar  
-- ☕ TESDA NC III (Java Programming) & CSS NC II  
+- 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar  
+- ☕ TESDA Programming (Java) NC III & CSS NC II  
 - 📚 Creator of **CSEnotes** — FREE Civil Service Exam Review Materials  
 - 🌐 Based in the Philippines • Open to remote collaboration
 
