@@ -39,7 +39,7 @@ Tools: Java, MySQL, Netbeans, Android Studio, XAMPP
 ## 📬 Contact Me
 
 - 📧 Email: `DWINsolutions@outlook.ph`
-- 🌐 Portfolio: Github (aldwinjay.github.io)
+- 🌐 Portfolio: Github (https://github.com/AldwinJay)
 
 ---
 
