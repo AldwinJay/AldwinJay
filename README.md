@@ -11,8 +11,7 @@ I'm passionate about building tools, writing systems, and creating content that 
 
 - 🎓 ISC² Certified in Cybersecurity — Candidate  
 - 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar  
-- ☕ TESDA Programming (Java) NC III & CSS NC II  
-- 📚 Creator of **CSEnotes** — FREE Civil Service Exam Review Materials  
+- ☕ TESDA Programming (Java) NC III & CSS NC II   
 - 🌐 Based in the Philippines • Open to remote collaboration
 
 ---
@@ -35,26 +34,11 @@ Tools: Antivirus, Firewall, VPN, Veracrypt, MFA, SSO
 OOP projects — inventory systems, attendance & grading tools  
 Tools: Java, MySQL, Netbeans, Android Studio, XAMPP
 
-### 📱 CSEnotes (Mobile App coming soon)  
-FREE CSE Review Materials, Timed Quizzes, Mock Exams  
-Platforms: Facebook, Google Drive, Google Forms  
-🔗 [Visit CSEnotes Page](https://facebook.com/CivilServiceExam2026)
-
----
-
-## 📚 Content Hub
-
-- ✅ 68-Day FREE FOCUSED CSE Review  
-- 📘 FREE Review Materials (Verbal, Analytical, Numerical, General Info)  
-- 🧪 Diagnostic Mock Exams  
-- 🏛️ Legit PH Government Job Portals
-
 ---
 
 ## 📬 Contact Me
 
 - 📧 Email: `DWINsolutions@outlook.ph`
-- 💬 Chatbot: [CSEnotes Messenger](https://m.me/CivilServiceExam2026)  
 - 🌐 Portfolio: [DWIN Solutions](https://sites.google.com/view/dwinsolutions)
 
 ---
