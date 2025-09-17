@@ -59,3 +59,8 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 > Built with love, passion, and perseverance 💙  
 > “Let’s build something great.”
+
+## Github Stats
+[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+##
