@@ -19,7 +19,7 @@ I'm passionate about building tools, writing systems, and creating content that 
 ## ⚙️ Skills & Expertise
 
 - **Cybersecurity**: VPN, Encryption, CIA, CISSP, NIST CSF, SIEM, Playbooks  
-- **Programming**: Java, HTML, SQL, LAMP Stack, Spring, Swing  
+- **Programming**: HTML, CSS, Javascript, Java, HTML, SQL, LAMP Stack, Spring, Swing  
 - **Content & Community**: SEO, SMM, Chatbots, Audience Growth
 
 ---
@@ -32,7 +32,7 @@ Tools: Antivirus, Firewall, VPN, Veracrypt, MFA, SSO
 
 ### ☕ Java Apps (TESDA)  
 OOP projects — inventory systems, attendance & grading tools  
-Tools: HTML, CSS, JavaScript, Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
+Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ---
 
