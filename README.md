@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm DWIN
 
-<!--
-**AldwinJay/AldwinJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI, Cybersecurity & Data Privacy Enthusiast • Java Programmer • Content Creator  
+Available for 🛠️ project collaborations and 🌱 voluntary engagements.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about building tools, writing systems, and creating content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
+
+- 🎓 ISC² Certified in Cybersecurity — Candidate  
+- 🛡️ Google Career Certificate in Cybersecurity — Scholar  
+- ☕ TESDA NC III (Java Programming) & CSS NC II  
+- 📚 Creator of **CSEnotes** — FREE Civil Service Exam Review Materials  
+- 🌐 Based in the Philippines • Open to remote collaboration
+
+---
+
+## ⚙️ Skills & Expertise
+
+- **Cybersecurity**: VPN, Encryption, CIA, CISSP, NIST CSF, SIEM, Playbooks  
+- **Programming**: Java, HTML, SQL, LAMP Stack, Spring, Swing  
+- **Content & Community**: SEO, SMM, Chatbots, Audience Growth
+
+---
+
+## 🧠 Featured Projects
+
+### 🔐 Blue Team Lab  
+Practical workstation cyberdefense & environment hardening  
+Tools: Antivirus, Firewall, VPN, Veracrypt, MFA, SSO
+
+### ☕ Java Apps (TESDA)  
+OOP projects — inventory systems, attendance & grading tools  
+Tools: Java, MySQL, Netbeans, Android Studio, XAMPP
+
+### 📱 CSEnotes (Mobile App coming soon)  
+FREE CSE Review Materials, Timed Quizzes, Mock Exams  
+Platforms: Facebook, Google Drive, Google Forms  
+🔗 [Visit CSEnotes Page](https://facebook.com/CivilServiceExam2026)
+
+---
+
+## 📚 Content Hub
+
+- ✅ 68-Day FREE FOCUSED CSE Review  
+- 📘 FREE Review Materials (Verbal, Analytical, Numerical, General Info)  
+- 🧪 Diagnostic Mock Exams  
+- 🏛️ Legit PH Government Job Portals
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: `DWINsolutions@outlook.ph`
+- 💬 Chatbot: [CSEnotes Messenger](https://m.me/CivilServiceExam2026)  
+- 🌐 Portfolio: [DWIN Solutions](https://sites.google.com/view/dwinsolutions)
+
+---
+
+## 🏅 Certifications & Tools
+
+![ISC² Certified in Cybersecurity](https://img.shields.io/badge/ISC²-Candidate-blue?logo=ISC2)
+![Google Cybersecurity Scholar](https://img.shields.io/badge/Google-Career%20Certificate-green?logo=Google)
+![TESDA Java NC III](https://img.shields.io/badge/TESDA-Java%20NC%20III-orange)
+![TESDA CSS NC II](https://img.shields.io/badge/TESDA-CSS%20NC%20II-yellow)
+
+![Java](https://img.shields.io/badge/Java-Programming-blue?logo=Java)
+![HTML](https://img.shields.io/badge/HTML-Web%20Dev-orange?logo=HTML5)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=MySQL)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-critical?logo=Security)
+
+---
+
+> Built with love, passion, and perseverance 💙  
+> “Let’s build something great.”
