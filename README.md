@@ -59,7 +59,7 @@ Platforms: Facebook, Google Drive, Google Forms
 
 ---
 
-## 🏅 Certifications & Tools
+## 🏅 Certifications
 
 ![ISC² Certified in Cybersecurity](https://img.shields.io/badge/ISC²-Candidate-blue?logo=ISC2)
 ![Google Cybersecurity Scholar](https://img.shields.io/badge/Google-Career%20Certificate-green?logo=Google)
