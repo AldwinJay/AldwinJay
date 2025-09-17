@@ -32,7 +32,7 @@ Tools: Antivirus, Firewall, VPN, Veracrypt, MFA, SSO
 
 ### ☕ Java Apps (TESDA)  
 OOP projects — inventory systems, attendance & grading tools  
-Tools: Java, MySQL, Netbeans, Android Studio, XAMPP
+Tools: HTML, CSS, JavaScript, Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ---
 
