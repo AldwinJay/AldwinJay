@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DWIN
+# ![Wave](https://img.shields.io/badge/-👋%20Say%20Hello-black?style=flat-square) Hi, I'm DWIN
 
 AI, Cybersecurity & Data Privacy Enthusiast • Java Programmer • Content Creator
 
