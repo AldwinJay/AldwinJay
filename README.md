@@ -71,3 +71,63 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AldwinJay)
+
+-----
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+</p>
+
+# 👋 Hey there, I'm YOUR NAME!
+
+I'm a passionate developer who loves building cool stuff, solving problems, and occasionally wondering if coffee is a valid data type ☕. Here's a glimpse into my world:
+
+---
+
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ✍️ Blog & Thoughts
+
+- [My Blog](https://yourblog.com)
+- [Medium](https://medium.com/@yourhandle)
+- [Dev.to](https://dev.to/yourhandle)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://yourportfolio.com)
+
+---
+
+## 💡 Fun Fact
+
+> “I write code like I write poetry—except with fewer bugs and more semicolons.”
