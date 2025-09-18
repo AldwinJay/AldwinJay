@@ -58,13 +58,9 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ---
 
 ## 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact)<br/>
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Skills" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay" alt="GitHub Streaks" />
 </p>
 
@@ -76,6 +72,14 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
+</p>
 
 ---
 
