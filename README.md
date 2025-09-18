@@ -40,7 +40,7 @@ Tools: Antivirus, Firewall, VPN, Veracrypt, MFA, SSO
 
 ### ☕ Java Apps (TESDA)  
 OOP projects — inventory systems, attendance & grading tools  
-Tools: Java, Netbeans, XAMPP
+Tools: Java, Netbeans, XAMPP, Swing
 
 ---
 
@@ -99,7 +99,7 @@ Tools: Java, Netbeans, XAMPP
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=Let's+build+something+great!" alt="Typing SVG" />
-</p><br/><br/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AldwinJay&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views Counter" />
