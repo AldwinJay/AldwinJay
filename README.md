@@ -1,7 +1,8 @@
-# ![Wave](https://img.shields.io/badge/-👋%20Say%20Hello-black?style=flat-square) Hi, I'm DWIN
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+DWIN;Cybersecurity+%7C+Java+%7C+AI+Enthusiast;Let's+build+something+great!)
+ Hi, I'm DWIN
 
 AI, Cybersecurity & Data Privacy Enthusiast • Java Programmer • Content Creator
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+DWIN;Cybersecurity+%7C+Java+%7C+AI+Enthusiast;Let's+build+something+great!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+AI & Cybersecurity Enthusiast;Java Programmer;Content Creator)
 
 > Available for 🛠️ project collaborations and 🌱 voluntary engagements.
 
@@ -71,4 +72,4 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 > Built with love, passion, and perseverance 💙  
 > Let’s build something great!
-> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+Built with love;passion;and perseverance;Let's+build+something+great!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+Built with love;passion;and perseverance;Let's+build+something+great!)
