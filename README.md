@@ -61,29 +61,20 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ## 📊 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical)
-
-## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact)
-
-## 🏆 Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=aldwinjay)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Streak Stats
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay)
 
 ---
 
 ## 🚀 Tech Stack
 
-![HTML](https://img.shields.io/badge/-React-black?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=css)
-![JavaScript](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-Python-black?style=flat-square&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ---
-
-## 💡 Fun Fact
 
 > Built with love, passion, and perseverance 💙  
 > Let’s build something great!
