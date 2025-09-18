@@ -61,12 +61,11 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ---
 
 ## 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html)
-![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-html5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-css3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-mydwl-black?style=flat-square&logo=mysql)
 
 ---
 
