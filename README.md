@@ -9,7 +9,7 @@
 
 > Available for 🛠️ project collaborations and 🌱 voluntary engagements.
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AldwinJay&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=AldwinJay&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 ---
