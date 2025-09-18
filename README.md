@@ -1,9 +1,11 @@
 # 👋 Hi, I'm DWIN
 
 AI, Cybersecurity & Data Privacy Enthusiast • Java Programmer • Content Creator<br/><br/>
-<p align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Java+Programmer;Content+Creator)
-< /p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Java+Programmer;Content+Creator" alt="Typing SVG" />
+</p>
 
 > Available for 🛠️ project collaborations and 🌱 voluntary engagements.
 
