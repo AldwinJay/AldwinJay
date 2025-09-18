@@ -41,7 +41,7 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ## 📬 Contact Me
 
 📧 Email: `DWINsolutions@outlook.ph`<br/>
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://dwin.is-a.dev)
+Github: ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)(https://dwin.is-a.dev)
 
 <!-----
 
@@ -62,7 +62,7 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/-html5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-css3-black?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-css-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-mydwl-black?style=flat-square&logo=mysql)
