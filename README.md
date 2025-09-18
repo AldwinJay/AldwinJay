@@ -66,7 +66,7 @@ Tools: Java, Netbeans, XAMPP, Swing
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Skills" /><br/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Skills" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay" alt="GitHub Streaks" />
 </p>
 
