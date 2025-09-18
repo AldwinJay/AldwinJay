@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about building tools, writing systems, and creating content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
+I build tools, write systems, and create content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
 
 - 🎓 ISC² Certified in Cybersecurity — Candidate  
 - 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar  
