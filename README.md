@@ -65,7 +65,7 @@ Github: ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-s
 ![CSS3](https://img.shields.io/badge/-css-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-mydwl-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 
 ---
 
