@@ -40,38 +40,38 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ## 📬 Contact Me
 
-📧 Email: `DWINsolutions@outlook.ph`
+📧 Email: `DWINsolutions@outlook.ph`<br/>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://dwin.is-a.dev)
 
 ---
 
 ## 🏅 Certifications
-<p align="center">
+<center>
 ![ISC² Certified in Cybersecurity](https://img.shields.io/badge/ISC²-Candidate-blue?logo=ISC2)
 ![Google Cybersecurity Scholar](https://img.shields.io/badge/Google-Career%20Certificate-green?logo=Google)
 ![TESDA Java NC III](https://img.shields.io/badge/TESDA-Java%20NC%20III-orange)
 ![TESDA CSS NC II](https://img.shields.io/badge/TESDA-CSS%20NC%20II-yellow)
-</p>
+</center>
 
 ---
 
 ## 📊 Github Stats
-<p align="center">
+<center>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact)<br/>
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay)
-</p>
+</center>
 
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
+<center>
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-</p>
+</center>
 
 ---
 
