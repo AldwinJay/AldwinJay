@@ -1,9 +1,8 @@
 # 👋 Hi, I'm DWIN
 
-AI, Cybersecurity & Data Privacy Enthusiast • Java Programmer • Content Creator  
-Available for 🛠️ project collaborations and 🌱 voluntary engagements.
+AI, Cybersecurity & Data Privacy Enthusiast • Java Programmer • Content Creator
 
-> I build tools, write systems, and create content that teaches, secures, and scales.
+> Available for 🛠️ project collaborations and 🌱 voluntary engagements.
 
 ---
 
@@ -40,7 +39,7 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ## 📬 Contact Me
 
-📧 Email: `DWINsolutions@outlook.ph`<br/>
+📧 Email: `DWINsolutions@outlook.ph`<br/><br/>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://dwin.is-a.dev)
 
 <!-----
