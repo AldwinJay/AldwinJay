@@ -40,8 +40,8 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 ## 📬 Contact Me
 
-- 📧 Email: `DWINsolutions@outlook.ph`
-- 🌐 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://dwin.is-a.dev)
+📧 Email: `DWINsolutions@outlook.ph`
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://dwin.is-a.dev)
 
 ---
 
@@ -60,8 +60,8 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ---
 
 ## 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact)<br/>
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay)
 
 ---
