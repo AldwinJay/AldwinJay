@@ -80,11 +80,11 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
   <img src="https://skillicons.dev/icons?i=gmail,windows,wordpress,spring,ai" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/AldwinJay/AldwinJay/issues/new?title=Skill+Endorsement:+Your+Name&body=I+endorse+AldwinJay+for+the+following+skills:+..." target="_blank">
     <strong>💬 Endorse Me</strong>
   </a>
-</p>
+</p>-->
 
 <!--<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
