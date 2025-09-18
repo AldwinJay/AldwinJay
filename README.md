@@ -43,9 +43,9 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 📧 Email: `DWINsolutions@outlook.ph`<br/>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://dwin.is-a.dev)
 
----
+<!-----
 
-<!--## 🏅 Certifications
+## 🏅 Certifications
 ![ISC² Certified in Cybersecurity](https://img.shields.io/badge/ISC²-Candidate-blue?logo=ISC2)
 ![Google Cybersecurity Scholar](https://img.shields.io/badge/Google-Career%20Certificate-green?logo=Google)
 ![TESDA Java NC III](https://img.shields.io/badge/TESDA-Java%20NC%20III-orange)
