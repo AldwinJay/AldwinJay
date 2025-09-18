@@ -61,6 +61,13 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 > “Let’s build something great.”
 
 ## Github Stats
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+![HARYs's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldwinJay&show_icons=true&theme=radical)
 
-##
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldwinJay&layout=compact)
+
+## Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=AldwinJay)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AldwinJay)
