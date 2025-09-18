@@ -31,6 +31,10 @@ I'm passionate about building tools, writing systems, and creating content that 
 - **Programming**: HTML, CSS, Javascript, Java, HTML, SQL, LAMP Stack, Spring, Swing  
 - **Content & Community**: SEO, SMM, Chatbots, Audience Growth
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,sql,linux,git" />
+</p>
+
 ---
 
 ## 🧠 Featured Projects
