@@ -49,7 +49,7 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 <!-----
 
-## 🏅 Certifications
+## 🏅 Continuous Learning
 ![ISC² Certified in Cybersecurity](https://img.shields.io/badge/ISC²-Candidate-blue?logo=ISC2)
 ![Google Cybersecurity Scholar](https://img.shields.io/badge/Google-Career%20Certificate-green?logo=Google)
 ![TESDA Java NC III](https://img.shields.io/badge/TESDA-Java%20NC%20III-orange)
@@ -61,6 +61,12 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact)<br/>
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay" alt="GitHub Streaks" />
+</p>
 
 ---
 
