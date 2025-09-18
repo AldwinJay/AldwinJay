@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Java+Programmer;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Java+Programmer;Content+Creator" alt="Typing SVG" />
 </p>
 
 > Available for 🛠️ project collaborations and 🌱 voluntary engagements.
