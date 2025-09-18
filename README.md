@@ -41,7 +41,7 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ## 📬 Contact Me
 
 📧 Email: `DWINsolutions@outlook.ph`<br/>
-Github: ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)(https://dwin.is-a.dev)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)(https://dwin.is-a.dev)
 
 <!-----
 
@@ -61,11 +61,11 @@ Github: ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-s
 ---
 
 ## 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/-html5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-css-black?style=flat-square&logo=css)
-![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ---
 
