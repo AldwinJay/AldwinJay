@@ -71,3 +71,4 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 > Built with love, passion, and perseverance 💙  
 > Let’s build something great!
+> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+Built with love;passion;and perseverance;Let's+build+something+great!)
