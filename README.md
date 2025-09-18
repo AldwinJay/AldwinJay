@@ -31,10 +31,6 @@ I'm passionate about building tools, writing systems, and creating content that 
 - **Programming**: HTML, CSS, Javascript, Java, HTML, SQL, LAMP Stack, Spring, Swing  
 - **Content & Community**: SEO, SMM, Chatbots, Audience Growth
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,sql,linux,git" />
-</p>
-
 ---
 
 ## 🧠 Featured Projects
@@ -74,13 +70,18 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ---
 
 ## 🚀 Tech Stacks
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html5,css3,javascript,sql,git" />
+</p>
+
+<!--<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
   <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
-</p>
+</p>-->
 
 ---
 
