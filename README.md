@@ -60,9 +60,9 @@ Tools: Java, Netbeans, XAMPP, Swing
 ---
 
 ## 📊 Github Stats
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
