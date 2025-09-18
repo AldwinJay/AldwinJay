@@ -7,10 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Java+Programmer;Content+Creator" alt="Typing SVG" />
 </p>
 
-> Available for 🛠️ project collaborations and 🌱 voluntary engagements.
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AldwinJay&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views Counter" />
-</p>
+<!--> Available for 🛠️ project collaborations and 🌱 voluntary engagements.-->
 
 ---
 
@@ -100,4 +97,8 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=Let's+build+something+great!" alt="Typing SVG" />
+</p><br/><br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AldwinJay&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views Counter" />
 </p>
