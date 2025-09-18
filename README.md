@@ -75,6 +75,12 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/AldwinJay/AldwinJay/issues/new?title=Skill+Endorsement:+Your+Name&body=I+endorse+AldwinJay+for+the+following+skills:+..." target="_blank">
+    <strong>💬 Endorse Me</strong>
+  </a>
+</p>
+
 <!--<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css" />
