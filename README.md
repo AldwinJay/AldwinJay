@@ -65,13 +65,7 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-![Java](https://img.shields.io/badge/Java-Programming-blue?logo=Java)
-![HTML](https://img.shields.io/badge/HTML-Web%20Dev-orange?logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-Styling-blue?logo=CSS3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-yellow?logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 
 ---
 
