@@ -27,7 +27,7 @@ I build tools, write systems, and create content that teaches, secures, and scal
 ## ⚙️ Skills & Expertise
 
 - **Cybersecurity**: VPN, Encryption, CIA, CISSP, NIST CSF, SIEM, Playbooks  
-- **Programming**: HTML, CSS, Javascript, Java, SQL, VPS (LAMP), Spring, Swing  
+- **Programming**: HTML, CSS, Javascript, Java, SQL, VPS (LAMP),<!-- Spring,--> Swing  
 - **Content & Community**: SEO, SMM, Chatbots, Audience Growth
 
 ---
