@@ -76,7 +76,7 @@ Tools: Java, MySQL, Netbeans, VS Code, Android Studio, XAMPP
 ## 🚀 Tech Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,dart,html,css,javascript,mysql,git,vscode,androidstudio,flutter,figma,firebase,googlecloudplatform,googlecloud,googleworkspace" />
+  <img src="https://skillicons.dev/icons?i=java,dart,html,css,javascript,mysql,git,vscode,androidstudio,flutter,figma,firebase,googlecloud,dialogflow" />
 </p>
 
 <p align="center">
