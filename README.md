@@ -17,17 +17,17 @@
 
 I build tools, write systems, and create content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
 
-- 🎓 ISC² Certified in Cybersecurity — Candidate  
-- 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar  
-- ☕ TESDA Programming (Java) NC III & CSS NC II   
+- 🎓 ISC² Certified in Cybersecurity — Candidate
+- 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar
+- ☕ TESDA Programming (Java) NC III & CSS NC II
 - 🌐 Based in the Philippines • Open to remote collaboration
 
 ---
 
 ## ⚙️ Skills & Expertise
 
-- **Cybersecurity**: VPN, Encryption, CIA, CISSP, NIST CSF, SIEM, Playbooks  
-- **Programming**: HTML, CSS, Javascript, Java, SQL, VPS (LAMP),<!-- Spring,--> Swing  
+- **Cybersecurity**: VPN, Encryption, CIA, CISSP, NIST CSF, SIEM, Playbooks
+- **Programming**: HTML, CSS, Javascript, Java, SQL, Swing, VPS (LAMP)<!--, Spring-->
 - **Content & Community**: SEO, SMM, Chatbots, Audience Growth
 
 ---
@@ -35,12 +35,12 @@ I build tools, write systems, and create content that teaches, secures, and scal
 ## 🧠 Featured Projects
 
 ### 🔐 Blue Team Lab  
-Practical workstation cyberdefense & environment hardening  
+Practical workstation cyberdefense & environment hardening
 Tools: Antivirus, Firewall, VPN, Veracrypt, MFA, SSO
 
 ### ☕ Java Apps (TESDA)  
-OOP projects — inventory systems, attendance & grading tools  
-Tools: Java, Netbeans, XAMPP, Swing
+OOP projects — inventory systems, attendance & grading tools
+Tools: Java, SQL, Swing, Netbeans, XAMPP
 
 ---
 
