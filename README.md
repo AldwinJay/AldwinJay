@@ -64,6 +64,12 @@ Tools: Java, SQL, Swing, Netbeans, XAMPP
   <img src="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Skills" /><br/>
