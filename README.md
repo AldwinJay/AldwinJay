@@ -19,7 +19,7 @@ I build tools, write systems, and create content that teaches, secures, and scal
 
 - 🎓 ISC² Certified in Cybersecurity — Candidate
 - 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar
-- ☕ TESDA Programming (Java) NC III & CSS NC II
+- ☕ TESDA Programming (Java) NC III & CSS NC II Certified
 - 🌐 Based in the Philippines • Open to remote collaboration
 
 ---
