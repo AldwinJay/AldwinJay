@@ -47,7 +47,7 @@ Tools: Java, SQL, Swing, Netbeans, XAMPP
 ## 📬 Contact Me
 
 📧 **Email:** [DWINsolutions@outlook.ph](mailto:DWINsolutions@outlook.ph)  
-🌐 **Portfolio:** [dwin.is-a.dev](https://dwin.is-a.dev) [![Portfolio Badge](https://img.shields.io/badge/-Visit%20Site-1e90ff?style=flat-square&logo=internet-explorer&logoColor=white)](https://dwin.is-a.dev)
+🌐 **Portfolio:** [https://dwin.is-a.dev](https://dwin.is-a.dev)
 
 <!-----
 
