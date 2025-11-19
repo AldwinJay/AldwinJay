@@ -13,8 +13,100 @@
   <meta property="og:type" content="website" />
   <meta property="og:image" content="/assets/hero-share.png" />
 
-  <link rel="stylesheet" href="style.css"> 
-  
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>Ð</text></svg>"> 
+
+  <style>
+    /* Reset + base */
+    :root{
+      --bg:#071024; --card:#0c1530; --accent:#00f5c4; --muted:#9fb3c8; --glass: rgba(255,255,255,0.04);
+      --glass-strong: rgba(255,255,255,0.06);
+      --max-width:1200px;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace;
+      --sans: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%;margin:0;font-family:var(--sans);background:radial-gradient(ellipse at 10% 10%, rgba(0,245,196,0), transparent 10%), linear-gradient(180deg,#021024 0%, #071024 100%);color:#e6f7fb;-webkit-font-smoothing:antialiased}
+    a{color:var(--accent);text-decoration:none}
+    img{max-width:100%;height:auto;display:block}
+
+    /* Layout */
+    .container{max-width:var(--max-width);margin:0 auto;padding:28px}
+
+    header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0}
+    .brand{display:flex;align-items:center;gap:12px}
+    .logo{width:56px;height:56px;display:grid;place-items:center;border-radius:12px;background:linear-gradient(135deg,#042233,#063444);/*box-shadow:0 6px 20px rgba(2,20,35,0.6);*/font-weight:700;font-family:var(--mono);letter-spacing:1px}
+    .brand h1{font-size:18px;margin:0}
+    .brand p{margin:0;font-size:12px;color:var(--muted)}
+
+    nav{display:flex;gap:12px;align-items:center}
+    nav a{padding:8px 12px;border-radius:8px;font-size:14px;color:var(--muted)}
+    nav a:hover{background:linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.03));color:#fff}
+
+    .cta{background:linear-gradient(90deg,var(--accent),#7af0d0);color:#002226;padding:10px 14px;border-radius:10px;font-weight:600}
+
+    /* Hero */
+    .hero{display:grid;grid-template-columns:1fr 420px;gap:28px;align-items:center;padding:48px 0}
+    .intro{padding:28px;background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);border-radius:16px;/*box-shadow:0 8px 30px rgba(2,16,28,0.6);backdrop-filter: blur(6px)*/}
+    .intro h2{margin:0 0 8px;font-size:34px;line-height:1.02}
+    .intro p.lead{margin:0 0 18px;color:var(--muted);font-size:15px}
+    .badges{display:flex;gap:10px;flex-wrap:wrap}
+    .badge{padding:8px 12px;border-radius:999px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.03);font-size:13px}
+
+    .device-mock{position:relative;padding:18px;background:linear-gradient(180deg,#07182b,#051226);border-radius:18px;border:1px solid rgba(255,255,255,0.04);/*box-shadow:0 18px 60px rgba(0,0,0,0.6)*/}
+    .device-screen{width:100%;height:520px;border-radius:12px;background:linear-gradient(180deg,#021524 0%, rgba(2,20,36,0.4) 60%), url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="%2300f5c4" stop-opacity="0.05"/><stop offset="1" stop-color="%23fff" stop-opacity="0"/></linearGradient></defs><rect width="100%" height="100%" fill="none"/><g fill="none" stroke="rgba(0,245,196,0.07)" stroke-width="1"><path d="M0 360 C150 260 350 260 800 360"/><path d="M0 320 C250 220 450 220 800 320"/></g></svg>');background-size:cover;display:flex;flex-direction:column;gap:12px;padding:18px;/*box-shadow:inset 0 0 60px rgba(0,0,0,0.4)*/}
+
+    .screen-top{display:flex;justify-content:space-between;align-items:center}
+    .screen-title{font-weight:700;font-size:16px}
+    .screen-meta{font-size:12px;color:var(--muted)}
+
+    .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:8px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.03);font-size:13px}
+
+    /* Sections */
+    section{margin:36px 0}
+    .grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .skills{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+    .skill-card{background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);padding:18px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)}
+    .skill-card h4{margin:0 0 6px}
+    .prog{height:8px;border-radius:99px;background:rgba(255,255,255,0.03);overflow:hidden}
+    .prog > i{display:block;height:8px;border-radius:99px;background:linear-gradient(90deg,var(--accent),#5df3c9)}
+
+    .projects-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .project{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)}
+    .project .meta{display:flex;justify-content:space-between;font-size:13px;color:var(--muted);margin-top:8px}
+
+    footer{padding:28px 0;color:var(--muted);border-top:1px solid rgba(255,255,255,0.02)}
+
+    /* Modal & Contact */
+    .btn{display:inline-block;padding:10px 14px;border-radius:10px;background:linear-gradient(90deg,var(--accent),#7af0d0);color:#002226;font-weight:600}
+    .ghost{border:1px solid rgba(255,255,255,0.06);padding:8px 10px;border-radius:8px}
+
+    /* Responsive */
+    @media (max-width:1000px){
+      .hero{grid-template-columns:1fr 320px}
+      .device-screen{height:420px}
+      .cards{grid-template-columns:repeat(2,1fr)}
+      .projects-grid,.skills{grid-template-columns:repeat(2,1fr)}
+    }
+    @media (max-width:720px){
+      header{flex-direction:column;align-items:flex-start}
+      .hero{grid-template-columns:1fr;gap:18px}
+      .device-screen{height:360px}
+      .cards{grid-template-columns:1fr}
+      .projects-grid,.skills{grid-template-columns:1fr}
+      nav{overflow:auto;white-space:nowrap;padding-bottom:6px}
+    }
+
+    /* Fancy animated accent */
+    .accent-glow{position:relative}
+    .accent-glow:after{content:'';position:absolute;inset:-40%;background:radial-gradient(circle at 10% 10%, rgba(0,245,196,0.06), transparent 6%, transparent 40%);pointer-events:none;mix-blend-mode:screen}
+
+    /* small utilities */
+    .muted{color:var(--muted)}
+    .small{font-size:13px}
+    .pill{display:inline-block;padding:6px 10px;border-radius:999px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.03)}
+
+  </style>
 </head>
 <body>
   <div class="container">
@@ -23,7 +115,7 @@
         <div class="logo">Đ</div>
         <div>
           <h1>DWIN</h1>
-          <p class="muted">AI & Cybersecurity<!-- & Data Privacy--> Enthusiast • Java Programmer • Content Creator</p>
+          <p class="muted">App Developer • AI, Cybersecurity & Data Privacy Enthusiast • Content Creator</p>
         </div>
       </div>
 
@@ -41,7 +133,7 @@
       <section class="hero">
         <div class="intro">
           <h2>Hi, I’m <span style="color:var(--accent)">DWIN</span> 👋</h2>
-          <p class="lead">ISC² Candidate • Google Career Scholar • TESDA CSS NC II and Java NC III<br><br>I build tools, write systems, and create content that teaches, secures, and scales.</p>
+          <p class="lead">ISC² Candidate • Google Career Scholar • TESDA Programming (Java) NC III and CSS NC II<br><br>I build tools, write systems, and create content that teaches, secures, and scales.</p>
 
           <div class="badges">
             <!--<span class="badge">Artificial Intelligence</span>-->
@@ -86,14 +178,16 @@
               </div>-->
               <div class="card" role="listitem">
                 <div style="font-weight:700">Content</div>
-                <div class="muted small">CSEnotes • FREE FOCUSED CSE Review Materials 2026</div>
+                <div class="muted small">
+                  <span>CSEnotes • <a href="https://www.facebook.com/share/p/1GXtew8VJk/" target="_blank">FREE &amp; Focused CSE Reviewer App</a></span>
+                </div>
               </div>
             </div>
 
             <div style="margin-top:auto;display:flex;align-items:center;justify-content:space-between">
               <div class="muted small">Quick Preview</div>
               <div style="display:flex;gap:8px">
-                <a href="https://facebook.com/CivilServiceExam2026" target="_blank">
+                <a href="https://facebook.com/CSEreviewerapp" target="_blank">
   <div class="pill">CSEnotes</div>
 </a>
                 <!--<div class="pill">GitHub</div>
@@ -110,13 +204,13 @@
         <div style="display:flex;gap:20px;align-items:flex-start">
           <div style="flex:1">
             <h3>ℹ️ About Me</h3>
-            <p class="muted">I combine practical cybersecurity, data privacy, software development, and content creation to build tools and resources that help learners, teams, and communities grow. <!--My work focuses on secure-by-design practices, red-team/blue-team exercises, and applying AI to automate security operations.--></p>
+            <p class="muted">I combine practical cybersecurity, data privacy, software development, and AI generative content creation to build tools and resources that help learners, teams, and communities grow. <!--My work focuses on secure-by-design practices, red-team/blue-team exercises, and applying AI to automate security operations.--></p>
 
             <ul style="margin-top:12px;color:var(--muted);line-height:1.6">
               <li>ISC² Certified in Cybersecurity — Candidate</li>
               <li>Google Career Professional Certificate in Cybersecurity — Scholar</li>
-              <li>TESDA CSS NC II and Programming (Java) NC III</li>
-              <li>Creator of CSEnotes — FREE Civil Service Exam Review Notes</li>
+              <li>Programming (Java) NC III & CSS NC II — Certified</li>
+              <li>Creator of CSEnotes — FREE & Focused CSE Reviewer App</li>
             </ul>
 
             <div style="margin-top:14px">
@@ -129,16 +223,16 @@
               <div style="width:72px;height:72px;border-radius:12px;background:linear-gradient(135deg,#022 0%, #024 100%);display:grid;place-items:center;font-weight:700">Đ</div>
               <div>
                 <div style="font-weight:700">DWIN</div>
-                <div class="muted small">AI & Cybersecurity<!-- Data Privacy--> • Java Programmer • Content Creator</div>
+                <div class="muted small">App Developer • AI, Cybersecurity & Data Privacy Enthusiast • Content Creator</div>
               </div>
             </div>
 
             <div style="margin-top:14px;font-size:13px;color:var(--muted)">
               <strong>Top skills</strong>
               <div style="display:flex;gap:8px;margin-top:8px;flex-wrap:wrap">
+                <span class="pill">App Development</span>
                 <span class="pill">Blue Teaming</span>
                 <!--<span class="pill">Data Privacy</span>-->
-                <span class="pill">Programming (Java)</span>
                 <span class="pill">Content Creation</span>
                 <span class="pill">Continuous Learning</span>
                 <!--<span class="pill">Red Teaming</span>
@@ -179,7 +273,7 @@
         <div class="projects-grid" style="margin-top:12px">
           <article class="project">
             <div style="display:flex;gap:12px;align-items:center">
-              <div style="width:78px;height:56px;border-radius:8px;background:linear-gradient(90deg,#012 0%, #024 100%);display:grid;place-items:center">🔐</div>
+              <div style="width:78px;height:56px;border-radius:8px;background:linear-gradient(90deg,#012 0%, #024 100%);display:grid;place-items:center">🛡️</div>
               <div>
                 <strong>Blue Team Lab</strong>
                 <div class="muted small">Practical workstation cyberdefense<!--exploit--> development & environment hardening</div>
@@ -201,13 +295,13 @@
 
           <article class="project">
             <div style="display:flex;gap:12px;align-items:center">
-              <div style="width:78px;height:56px;border-radius:8px;background:linear-gradient(90deg,#102 0%, #124 100%);display:grid;place-items:center">📺</div>
+              <div style="width:78px;height:56px;border-radius:8px;background:linear-gradient(90deg,#102 0%, #124 100%);display:grid;place-items:center">📱</div>
               <div>
-                <strong>CSEnotes (Mobile App on beta test)</strong>
-                <div class="muted small">FREE CSE Review Materials, Timed Quizzes, and Mock Exams — Empowering Reviewees</div>
+                <strong>FREE & Focused CSE Reviewer App</strong>
+                <div class="muted small">FREE CSE review materials, mock quizzes and exams, AI tutor (soon) — Empowering Reviewees</div>
               </div>
             </div>
-            <div class="meta"><span>Distribution Channels: <a href="https://www.facebook.com/CivilServiceExam2026" target="_blank">Facebook Page</a><a href="https://www.facebook.com/share/p/174zHTNwaE" target="_blank">, Samsung Galaxy Store, OPPO App Market, VIVO App Store, Xiaomi GetApps</a>, Google Play Store (soon)</span></div>
+            <div class="meta"><span>Distribution Channels: <a href="https://www.facebook.com/CSEreviewerapp" target="_blank">Facebook Page</a>, Google Play Store (soon)</span></div>
 <!--<div class="meta"><span></span></div>-->
               <!--<div>
                 <strong>DWINstream</strong>
@@ -222,28 +316,28 @@
         <h3>📚 Content Hub</h3>
         <div style="display:grid;grid-template-columns:2fr 1fr;gap:16px;margin-top:12px">
           <div style="background:var(--card);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.02)">
-            <h4>CSEnotes — Most Requested</h4>
+            <h4>CSEnotes — Crowd Favorites</h4>
             <div style="display:flex;flex-direction:column;gap:10px;margin-top:10px">
               <div style="padding:10px;border-radius:10px;background:linear-gradient(180deg, rgba(255,255,255,0.01), transparent)">
-                <a href="https://www.facebook.com/share/p/1J9pNjxojb/" target="_blank">
+                <a href="https://www.facebook.com/share/p/1EGLfFyUv7/" target="_blank">
   <strong>68-Day FREE FOCUSED CSE Review</strong>
 </a>
                 <div class="muted small">1 topic per day, with a 5-item timed (5 mins) quiz as attendance, for 68 days leading up to one day before the exam.</div>
               </div>
               <div style="padding:10px;border-radius:10px;background:linear-gradient(180deg, rgba(255,255,255,0.01), transparent)">
-                <a href="https://www.facebook.com/share/p/1AsUwmon31/" target="_blank">
+                <a href="https://www.facebook.com/share/p/16h16m8khG/" target="_blank">
   <strong>FREE FOCUSED CSE Review Materials</strong>
 </a>
                 <div class="muted small">Exclusive access to Google Drive CSE review materials is shared with followers, including Verbal, Analytical, Numerical, and General Information subjects.</div>
               </div>
               <div style="padding:10px;border-radius:10px;background:linear-gradient(180deg, rgba(255,255,255,0.01), transparent)">
-                <a href="https://www.facebook.com/share/p/1G8Hv2S65E/" target="_blank">
+                <a href="https://www.facebook.com/share/p/1AVcmY15rD/" target="_blank">
   <strong>FREE Diagnostic CSE Mock Exams</strong>
 </a>
                 <div class="muted small">6 comprehensive mock exams tailored for CSE success. Covers all key areas: General Info, Clerical, Analytical, Verbal, Numerical (includes separate numerical exams for Subprofessional & Professional levels).</div>
               </div>
               <div style="padding:10px;border-radius:10px;background:linear-gradient(180deg, rgba(255,255,255,0.01), transparent)">
-                <a href="https://www.facebook.com/share/p/15dViaqLS5/" target="_blank">
+                <a href="https://www.facebook.com/share/p/1S5YKZ1ECD/" target="_blank">
   <strong>Legit PH Government Job Portals</strong>
 </a>
                 <div class="muted small">One-stop list of official government job portals (links to verified job governement websites). Department-specific hiring pages, perfect for fresh grads, career shifters, and CSE passers.</div>
@@ -317,7 +411,7 @@
             <div style="font-weight:700">📲 Contact Info</div>
             <div class="muted small" style="margin-top:8px">Email: DWINsolutions@outlook.ph</div>
             <div class="muted small" style="margin-top:8px">CSEnotes Chatbot: </div>
-            <div style="margin-top:12px"><a class="ghost" href="https://m.me/CivilServiceExam2026" target="_blank">Chat Now</a></div>
+            <div style="margin-top:12px"><a class="ghost" href="https://m.me/m.me/560362517157935" target="_blank">Chat Now</a></div>
             <!--<div class="muted small">GitHub: github.com/yourusername</div>
             <div class="muted small">YouTube: youtube.com/@AlagangDWIN</div>
             <div style="margin-top:12px"><a class="ghost" href="#">Schedule a call</a></div>-->
@@ -359,12 +453,12 @@
             <br>
     </main>
 
-    <footer>
+    <!--<footer>
       <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap">
         <div>© 2025 DWIN Solutions • Built with love, passion, and perseverance.</div>
         <div class="muted small">Designed for Desktop • Tablet • Phone</div>
       </div>
-    </footer>
+    </footer>-->
   </div>
 
   <script>
