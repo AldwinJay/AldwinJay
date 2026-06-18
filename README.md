@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=App+Developer;AI+%26+Cybersecurity+Enthusiast;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=App+Developer;AI+%26+Cybersecurity+Enthusiast;Data+Privacy+Advocate;Content+Creator" alt="Typing SVG" />
 </p>
 
 <!--
@@ -17,8 +17,9 @@
 
 I build tools, write systems, and create content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
 
-- 🎓 ISC² Certified in Cybersecurity — Candidate
-- 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar
+<!-- - 🎓 ISC² Certified in Cybersecurity — Candidate
+- 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar -->
+- ⛓️ Blockchain Technology and Cryptocurrency Specialist
 - ☕ TESDA Programming (Java) NC III & CSS NC II Certified
 - 🌐 Based in the Philippines • Open to remote collaboration
 
@@ -47,7 +48,7 @@ Tools: Java, SQL, Swing, Netbeans, XAMPP
 ## 📬 Contact Me
 
 📧 **Email:** [DWINsolutions@outlook.ph](mailto:DWINsolutions@outlook.ph)  
-🌐 **Portfolio:** [https://dwin.is-a.dev](https://dwin.is-a.dev)
+🌐 **Portfolio:** [https://dwin.is-a.dev](https://www.dwin.is-a.dev)
 
 <!-----
 
