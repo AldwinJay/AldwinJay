@@ -29,7 +29,7 @@ I build tools, write systems, and create content that teaches, secures, and scal
 ## 🚀 Tech Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,solidity,html,css,javascript,py,php,mysql,git,github,windows,kali,linux,vscode,androidstudio,remix,figma,firebase,googlecloud,gmail,linkedin,discord,spring,ai" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,solidity,html,css,javascript,py,php,mysql,git,github,windows,kali" />
   <img src="https://skillicons.dev/icons?i=linux,vscode,androidstudio,remix,figma,firebase,googlecloud,gmail,linkedin,discord,ai" />
 </p>
 
