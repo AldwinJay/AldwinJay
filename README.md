@@ -4,17 +4,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=App+Developer;AI+%26+Cybersecurity+Enthusiast;Data+Privacy+Advocate;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=Cross-Platform+App+Developer;AI+%26+Cybersecurity+Enthusiast;Data+Privacy+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I build tools, write systems, and create content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
+I build tools, write systems, and create content that teaches, secures, and scales. My work blends software development, cybersecurity, and community empowerment.
 
-- ⛓️ Blockchain Technology and Cryptocurrency Specialist
 - ☕ Cross-Platform App and AI Solutions Developer
+- ⛓️ Blockchain Technology and Cryptocurrency Specialist
 - 🌐 Based in the Philippines • Open to remote collaboration
 
 ---
@@ -29,23 +29,15 @@ I build tools, write systems, and create content that teaches, secures, and scal
 ## 🚀 Tech Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,dart,html,css,javascript,mysql,git,github,linkedin,vscode,androidstudio,flutter,figma,firebase,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,html,css,javascript,py,php,mysql,solidity,git,github,windows,kali,linux,vscode,androidstudio,remix,figma,firebase,googlecloud" />
   <img src="https://skillicons.dev/icons?i=gmail,windows,wordpress,spring,ai" />
 </p>
 
-<!--<p align="center">
+<p align="center">
   <a href="https://github.com/AldwinJay/AldwinJay/issues/new?title=Skill+Endorsement:+Your+Name&body=I+endorse+AldwinJay+for+the+following+skills:+..." target="_blank">
     <strong>💬 Endorse Me</strong>
   </a>
-</p>-->
-
-<!--<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
-</p>-->
+</p>
 
 ---
 
