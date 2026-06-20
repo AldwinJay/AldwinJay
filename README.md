@@ -7,41 +7,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&speed=0&color=00F7FF&center=true&vCenter=true&width=435&lines=App+Developer;AI+%26+Cybersecurity+Enthusiast;Data+Privacy+Advocate;Content+Creator" alt="Typing SVG" />
 </p>
 
-<!--
-> Available for 🛠️ project collaborations and 🌱 voluntary engagements.*
--->
-
 ---
 
 ## 🚀 About Me
 
 I build tools, write systems, and create content that teaches, secures, and scales. My work blends cybersecurity, software development, and community empowerment.
 
-<!-- - 🎓 ISC² Certified in Cybersecurity — Candidate
-- 🛡️ Google Career Professional Certificate in Cybersecurity — Scholar -->
 - ⛓️ Blockchain Technology and Cryptocurrency Specialist
-- ☕ TESDA Programming (Java) NC III & CSS NC II Certified
+- ☕ Cross-Platform App and AI Solutions Developer
 - 🌐 Based in the Philippines • Open to remote collaboration
-
----
-
-## ⚙️ Skills & Expertise
-
-- **Cybersecurity**: VPN, Encryption, CIA, CISSP, NIST CSF, SIEM, Playbooks
-- **Programming**: HTML, CSS, Javascript, Java, SQL, Swing, VPS (LAMP)<!--, Spring-->
-- **Content & Community**: SEO, SMM, Chatbots, Audience Growth
-
----
-
-## 🧠 Featured Projects
-
-### 🔐 Blue Team Lab  
-Practical workstation cyberdefense & environment hardening
-Tools: Antivirus, Firewall, VPN, Veracrypt, MFA, SSO
-
-### ☕ Java Apps (TESDA)  
-OOP projects — inventory systems, attendance & grading tools
-Tools: Java, SQL, Swing, Netbeans, XAMPP
 
 ---
 
@@ -49,33 +23,6 @@ Tools: Java, SQL, Swing, Netbeans, XAMPP
 
 📧 **Email:** [DWINsolutions@outlook.ph](mailto:DWINsolutions@outlook.ph)  
 🌐 **Portfolio:** [https://www.dwin.is-a.dev](https://www.dwin.is-a.dev)
-
-<!-----
-
-## 🏅 Continuous Learning
-![ISC² Certified in Cybersecurity](https://img.shields.io/badge/ISC²-Candidate-blue?logo=ISC2)
-![Google Cybersecurity Scholar](https://img.shields.io/badge/Google-Career%20Certificate-green?logo=Google)
-![TESDA Java NC III](https://img.shields.io/badge/TESDA-Java%20NC%20III-orange)
-![TESDA CSS NC II](https://img.shields.io/badge/TESDA-CSS%20NC%20II-yellow)-->
-
----
-
-## 📊 Github Stats
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Skills" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay" alt="GitHub Streaks" />
-</p>
 
 ---
 
@@ -99,6 +46,25 @@ Tools: Java, SQL, Swing, Netbeans, XAMPP
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
   <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
 </p>-->
+
+---
+
+## 📊 Github Stats
+<!--<p align="center">
+  <img src="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AldwinJay/AldwinJay/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldwinjay&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinjay&layout=compact" alt="Top Skills" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldwinjay" alt="GitHub Streaks" />
+</p>
 
 ---
 
